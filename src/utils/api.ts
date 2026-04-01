@@ -5,7 +5,7 @@ import {
   successInterceptor,
 } from './interceptors';
 
-const baseURL = process.env.NEXT_PUBLIC_API_URL   || '';
+const baseURL = typeof window !== 'undefined' ? '/api-proxy' : (process.env.NEXT_PUBLIC_API_URL || '');
 
 const axiosRequestConfig: AxiosRequestConfig = {
   baseURL,
