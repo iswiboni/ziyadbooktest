@@ -35,10 +35,10 @@ export default function Header() {
           </a>
           <nav className="hidden md:flex items-center gap-6 font-medium text-gray-700">
             <a href="/" className="text-green-400">Beranda</a>
-            <a href="/shop" className="hover:text-green-400">Belanja</a>
-            <a href="/features" className="hover:text-green-400">Fitur</a>
-            <a href="/pages" className="hover:text-green-400">Halaman</a>
-            <a href="/blog" className="hover:text-green-400">Blog</a>
+            <a href="#" className="hover:text-green-400">Belanja</a>
+            <a href="#" className="hover:text-green-400">Fitur</a>
+            <a href="#" className="hover:text-green-400">Halaman</a>
+            <a href="#" className="hover:text-green-400">Blog</a>
           </nav>
         </div>
 

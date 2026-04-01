@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="bg-cyan-50 pt-16 pb-8 border-t border-cyan-100">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12 text-sm text-gray-600">
-          
+
           <div className="lg:col-span-2">
             <h3 className="font-bold text-gray-800 mb-4 uppercase">Hubungi Kami</h3>
             <ul className="space-y-4">
@@ -57,15 +57,15 @@ export default function Footer() {
 
         <div className="flex flex-col md:flex-row justify-between items-center py-6 border-t border-cyan-200 gap-4 mt-8">
           <div className="flex items-center gap-1">
-            <Image 
-              src="https://ziyadbooks.com/storage/ziyad/logonew.svg" 
-              alt="Ziyad Books" 
-              width={140} 
-              height={40} 
+            <Image
+              src="https://ziyadbooks.com/storage/ziyad/logonew.svg"
+              alt="Ziyad Books"
+              width={140}
+              height={40}
               className="h-8 w-auto"
             />
           </div>
-          
+
           <p className="text-gray-500 text-sm">
             &copy; 2026 iswiboni@gmail.com. Hak Cipta Dilindungi.
           </p>

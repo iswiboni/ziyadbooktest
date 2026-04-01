@@ -66,7 +66,7 @@ export default function Deals() {
           {/* Content */}
           <div className="w-full md:w-1/2 relative z-10 text-white">
             <h2 className="text-3xl md:text-5xl font-bold mb-4 text-gray-800">Promo Spesial</h2>
-            <p className="mb-8 text-gray-700 text-lg">Dapatkan diskon untuk semua mainan kayu dan boneka.</p>
+            <p className="mb-8 text-gray-700 text-lg">Dapatkan diskon untuk semua kategori buku anak.</p>
             
             {/* Countdown timer */}
             <div className="flex gap-4 mb-8">
