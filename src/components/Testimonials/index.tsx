@@ -25,7 +25,7 @@ export default function Testimonials() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-gray-800 mb-4">Apa Kata Orang Tua?</h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Lihat seberapa baik anak-anak bermain melalui penilaian luar biasa dan ulasan bintang 5 dari produk Ziyad Books!
+            Bagaimana ulasan orang tua dan rating terbaik untuk produk Ziyad Books!
           </p>
         </div>
 
